@@ -1,5 +1,5 @@
 # Health Insurance Dataset
-Analyze the health insurance dataset to gain insights into real world problem, predicting health insurance charges. 
+Analyze the health insurance dataset to gain insights into real world problem, health insurance charges. 
 The project will cover data cleaning, visualization, and basic statistical analysis.
 
 ## 📌 Project Overview
@@ -39,7 +39,7 @@ Region
 Number of dependents
 
 Medical costs (insurance charges)
-
+sex
 
 
 ## 🔍 Key Insights
@@ -64,10 +64,6 @@ Age Factor: Premiums increase with age due to higher health risks.
 3. Statistical Analysis & Correlation (identifying significant factors)
 
 
-
-## 🚀 How to Use This Project
-
-1. Clone this repository:
 
 git clone https://github.com/onyedika39/Health-Insurance-Analysis
 
