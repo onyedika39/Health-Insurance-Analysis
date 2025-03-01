@@ -39,6 +39,7 @@ Region
 Number of dependents
 
 Medical costs (insurance charges)
+
 sex
 
 
